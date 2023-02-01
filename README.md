@@ -108,3 +108,4 @@ misal kita mau menambahkna data, dengan mengetik opsi 1
 ![gambar7](screenshoot/ss6.png)
 dan hasilnya akan muncul
 ![gambar8](screenshoot/ss7.png)
+bila telah selesai bisa memilih opsi 0.
